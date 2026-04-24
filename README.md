@@ -76,5 +76,3 @@ graph TD
 2. `npm install`
 3. Start: `npm run dev`
 
----
-Built with ❤️ by Antigravity
